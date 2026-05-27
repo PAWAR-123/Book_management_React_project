@@ -34,7 +34,7 @@ A full-featured React application for managing book collections with CRUD operat
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/book-management-system.git
+ 
    cd book-management-system
 
 
